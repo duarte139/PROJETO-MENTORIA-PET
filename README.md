@@ -4,7 +4,7 @@
 
 A ideia consiste no longo prazo desenvolver um Sistema Web integrando o chatBot inicial, para cadastrar informaçoes referente a animais desaparecidos, para que isso seja possível preciso ter mais conhecimentos de outras tecnologias [Canil Municipal de Cerquilho](https://www.facebook.com/profile.php?id=61554466625887).
 
-A princípio tentarei amenizar o problema consientizando os donos dos pets em ter atençao e cuidados com os animais.
+A princípio tentarei amenizar o problema concientizando os donos dos pets em ter atençao e cuidados com os animais.
 
 Projeto inicial Mentoria Pet é um chatBot usando google colab e Gemini AI 2.0 Flash, evento criando seu primeiro chatbot com IA generativa organizado pela [Alura](https://cursos.alura.com.br).
 
