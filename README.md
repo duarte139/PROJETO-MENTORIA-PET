@@ -1,4 +1,4 @@
-# PROJETO MENTORIA PET :dog :cat
+# PROJETO MENTORIA PET :dog: :cat:
 
 # Sobre o projeto
 
