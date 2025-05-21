@@ -30,7 +30,7 @@ Qual é a sua primeira pergunta sobre pets?
 git@github.com:duarte139/PROJETO-MENTORIA-PET.git
 
 ```
-# Agradecimentos :smiling_face_with_three_heards:
+# Agradecimentos :smiling_face_with_three_hearts:
  Agradeço de coraçao a Plataforma Alura por disseminar o conhecimento e, os instrutores Fabricio Carraro, Luciano Martins e Valquíria Alencar, com uma didática excelente. Muito Obrigado
  
 # Autor
