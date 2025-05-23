@@ -33,7 +33,7 @@ git@github.com:duarte139/PROJETO-MENTORIA-PET.git
 # Agradecimentos :smiling_face_with_three_hearts:
  Agradeço de coraçao a Plataforma Alura por disseminar o conhecimento e, os instrutores Fabricio Carraro, Luciano Martins e Valquíria Alencar, com uma didática excelente. Muito Obrigado
  
-# Autor:black_cat:
+# Autor:l
 
 Claudio Alves Duarte Filho
 
