@@ -18,7 +18,7 @@ Fora isso, sinta-se à vontade para perguntar o que vier à mente. Estou aqui pa
 
 Qual é a sua primeira pergunta sobre pets?
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas :computer:
 ## Back end
 - Python
 - Gemini 2.0 Flash
