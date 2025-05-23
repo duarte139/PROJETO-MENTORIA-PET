@@ -1,6 +1,6 @@
 # PROJETO MENTORIA PET :dog: :cat:
 
-# Sobre o projeto
+# Sobre o projeto :octucat:
 
 A ideia consiste no longo prazo desenvolver um Sistema Web integrando o chatBot inicial, para cadastrar informaçoes referente a animais desaparecidos, para que isso seja possível preciso ter mais conhecimentos de outras tecnologias [Canil Municipal de Cerquilho](https://www.facebook.com/profile.php?id=61554466625887).
 
