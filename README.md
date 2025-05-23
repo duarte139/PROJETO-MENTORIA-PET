@@ -2,7 +2,7 @@
 
 # Sobre o projeto :brazil:
 
-A ideia consiste no longo prazo desenvolver um Sistema Web integrando o chatBot inicial, para cadastrar informaçoes referente a animais desaparecidos, para que isso seja possível preciso ter  mais conhecimentos de outras tecnologias:black_cat:[Canil Municipal de Cerquilho](https://www.facebook.com/profile.php?id=61554466625887).
+A ideia consiste no longo prazo desenvolver um Sistema Web integrando o chatBot inicial, para cadastrar informaçoes referente a animais desaparecidos, para que isso seja possível preciso ter  mais conhecimentos de outras tecnologias[Canil Municipal de Cerquilho](https://www.facebook.com/profile.php?id=61554466625887).
 
 A princípio tentarei amenizar o problema concientizando os donos dos pets em ter atençao e cuidados com os animais.
 
@@ -33,7 +33,7 @@ git@github.com:duarte139/PROJETO-MENTORIA-PET.git
 # Agradecimentos :smiling_face_with_three_hearts:
  Agradeço de coraçao a Plataforma Alura por disseminar o conhecimento e, os instrutores Fabricio Carraro, Luciano Martins e Valquíria Alencar, com uma didática excelente. Muito Obrigado
  
-# Autor
+# Autor:black_cat:
 
 Claudio Alves Duarte Filho
 
